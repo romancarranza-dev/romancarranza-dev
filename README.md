@@ -15,7 +15,7 @@
 
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
 
-# About Me 🐧
+# About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" />
 
 - My name is Román, I am 18 years old, and I am currently studying programming.
 - I study at [UTN Villa María](https://www.villamaria.utn.edu.ar/) and also learn on my own.
