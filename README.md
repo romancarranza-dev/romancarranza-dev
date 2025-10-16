@@ -8,13 +8,14 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" alt="Otter" width="250" height="250" />
+  
 </h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
 
-# About Me
+# About Me 🐧
 
 - My name is Román, I am 18 years old, and I am currently studying programming.
 - I study at [UTN Villa María](https://www.villamaria.utn.edu.ar/) and also learn on my own.
