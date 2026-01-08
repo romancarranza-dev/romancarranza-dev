@@ -29,12 +29,17 @@
 - Outside of coding, I like design, reading, and finding creative ways to apply ideas to my projects.
 - I am motivated by growth, collaboration, and sharing knowledge with others.
 
-
-</td><td valign="top" width="33%">
+</td>
+    <td valign="bottom" align="center" width="33%">
+       <h3 align="center">
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="100" height="100" />
+   </h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seal.png" alt="Seal" width="150" height="150" />
+    </td>
+  </tr>
 </table>
 <!-- FOOTER -->
+
 <div align="center" width="100">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rock.png" alt="Rock" width="250" height="200" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seal.png" alt="Seal" width="200" height="200" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rock.png" alt="Rock" width="200" height="200" />
+
 </div>
