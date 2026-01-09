@@ -20,7 +20,7 @@
 
 <table style="border-color: transparent;" cellspacing="0">
   <tr>
-    <td width="60%" valign="top" style="padding-bottom: 20px;">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 15px; padding: 15px; padding-bottom: 20px; padding-right: 10px;" rowspan="2">
 
 # About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" />
 
@@ -32,9 +32,9 @@
 - I am motivated by growth, collaboration, and sharing knowledge with others.
 
     </td>
-
-    <td width="40%" rowspan="2" align="center" valign="middle" style="border: 1px solid #30363d; border-radius: 15px; padding: 15px;">
-      
+    <td width="50%" valign="top" style="padding-left: 10px;">
+      <div align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 15px; margin-bottom: 20px;">
+        
 # Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="35" height="35" />
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" height="25">
@@ -42,25 +42,34 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" height="25">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="25">
 
-<br><br>
-
-##
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="80" height="80" />
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seal.png" alt="Seal" width="180" height="180" />
-
-
-   
+   </div>
+    </td>
   </tr>
-
   <tr>
-    <td width="60%" valign="top" style="border: 1px solid #30363d; border-radius: 15px; padding: 15px;">
+    <td width="40%" valign="top" style="padding-left: 10px; padding-top: 10px;">
+      <div align="center" style="border: 1px; border-radius: 50px; padding: 15px; margin-bottom: 20px;">
 
+jsdjfhdsf
+
+   </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="70%" valign="top" style="border: 1px solid #30363d; border-radius: 15px; padding: 15px; padding-right: 10px; padding-top: 10px;">
+      
 # ejemplo
 
 ejemplo
-   
+
+   </td>
+    <td width="30%" valign="top" style="padding-left: 10px; padding-top: 10px;">
+      <div align="center" style="padding: 15px;">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seal.png" alt="Seal" width="180" height="180" />
+
+   </div>
+    </td>
   </tr>
 </table>
 <!-- FOOTER -->
