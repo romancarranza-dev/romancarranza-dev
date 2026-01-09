@@ -18,7 +18,9 @@
 </h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%">
+<table style="border-color: transparent;" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top" style="padding-bottom: 20px;">
 
 # About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" />
 
@@ -29,23 +31,36 @@
 - Outside of coding, I like design, reading, and finding creative ways to apply ideas to my projects.
 - I am motivated by growth, collaboration, and sharing knowledge with others.
 
-</td>
-    <td valign="bottom" align="center" width="33%">
-       <h3 align="center">
-
-# Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="40" height="40" />
-
-<img src="https://camo.githubusercontent.com/1217aa1e06a9d4668d12a103961dcb2502c5db1a12d25c98db761bc6849e5d5e/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f48544d4c2f68746d6c332e737667" data-canonical-src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/234053b6533b33b8ba394a10789082baf80058416511fc178267e07988d38f40/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4a6176617363726970742f6a617661736372697074332e737667" data-canonical-src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/7953ac5aed4556c2503383e91f5cf6e56c15e001b38ca24c5194b6c1768da39f/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4353532f637373332e737667" data-canonical-src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/06d8b69623c6c217e5c31b0ce972657671044ca1378796c45336e699a818147f/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4a6176612f6a617661332e737667" data-canonical-src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" style="max-width: 100%;">
-
-## 
-   
-   </h3>
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="100" height="100" />
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seal.png" alt="Seal" width="150" height="150" />
     </td>
+
+    <td width="40%" rowspan="2" align="center" valign="middle" style="border: 1px solid #30363d; border-radius: 15px; padding: 15px;">
+      
+# Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="35" height="35" />
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" height="25">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="25">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" height="25">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="25">
+
+<br><br>
+
+##
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="80" height="80" />
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seal.png" alt="Seal" width="180" height="180" />
+
+
+   
+  </tr>
+
+  <tr>
+    <td width="60%" valign="top" style="border: 1px solid #30363d; border-radius: 15px; padding: 15px;">
+
+# ejemplo
+
+ejemplo
+   
   </tr>
 </table>
 <!-- FOOTER -->
