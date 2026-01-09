@@ -23,7 +23,7 @@
 # About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" />
 
 - My name is Román, I am 18 years old, and I am currently studying programming.
-- I study at [UTN Villa María](https://www.villamaria.utn.edu.ar/) and also learn on my own.
+- **Incoming Student** at [UTN Villa María](https://www.villamaria.utn.edu.ar/) and dedicated self-learner.
 - I am passionate about software development, creating efficient solutions, and exploring new technologies.
 - I enjoy tackling challenges, learning new frameworks, and improving my skills every day.
 - Outside of coding, I like design, reading, and finding creative ways to apply ideas to my projects.
@@ -33,7 +33,14 @@
     <td valign="bottom" align="center" width="33%">
        <h3 align="center">
 
-# 
+# Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="40" height="40" />
+
+<img src="https://camo.githubusercontent.com/1217aa1e06a9d4668d12a103961dcb2502c5db1a12d25c98db761bc6849e5d5e/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f48544d4c2f68746d6c332e737667" data-canonical-src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/234053b6533b33b8ba394a10789082baf80058416511fc178267e07988d38f40/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4a6176617363726970742f6a617661736372697074332e737667" data-canonical-src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/7953ac5aed4556c2503383e91f5cf6e56c15e001b38ca24c5194b6c1768da39f/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4353532f637373332e737667" data-canonical-src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/06d8b69623c6c217e5c31b0ce972657671044ca1378796c45336e699a818147f/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4a6176612f6a617661332e737667" data-canonical-src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" style="max-width: 100%;">
+
+## 
    
    </h3>
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="100" height="100" />
