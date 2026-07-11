@@ -45,7 +45,7 @@ Online daily [09:00 - 22:00] (UTC-3)
 <table align="center" width="100%">
 	<tr>
 		<td>
-			<img src=cover.jpg alt="Headstone" width="650" height="650" />
+			<img src=cover.jpg alt="Headstone" width="600" height="350" />
 		</td>
 		<td>
 			<h3>Daily Routine</h3>
