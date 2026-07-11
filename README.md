@@ -48,8 +48,14 @@ Online daily [09:00 - 22:00] (UTC-3)
 			<img src=cover.jpg alt="Headstone" width="600" height="350" />
 		</td>
 		<td>
-			
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/romancarranza-dev?ext=heatmap)
+			<h3>Daily Execution Loop</h3>
+  <ul>
+    <li><b>08:00</b> | Coffee time & daily planning</li>
+    <li><b>09:30</b> | Focus mode: Study & academic notes</li>
+    <li><b>17:30</b> | Hypertrophy training (Hevy log active)</li>
+    <li><b>21:00</b> | Chess.com matchmaking & networking</li>
+    <li><b>23:30</b> | Hibernate mode</li>
+  </ul>
 		</td>
 	</tr>
 </table>
