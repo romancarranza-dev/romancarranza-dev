@@ -42,13 +42,20 @@ Online daily [09:00 - 22:00] (UTC-3)
 		</td>
 	</tr>
 </table>
-<table align="center">
+<table align="center" width="100%">
 	<tr>
 		<td>
-			photo
+			<img src=cover.jpg alt="Headstone" width="650" height="650" />
 		</td>
 		<td>
-			daily routine
+			<h3>Daily Routine</h3>
+  <ul>
+    <li><b>08:00</b> | coffee time & daily planning</li>
+    <li><b>09:30</b> | Focus mode: Study & academic notes</li>
+    <li><b>17:30</b> | Hypertrophy training (Hevy log active)</li>
+    <li><b>21:00</b> | Chess.com matchmaking & networking</li>
+    <li><b>23:30</b> | Hibernate mode</li>
+  </ul>
 		</td>
 	</tr>
 </table>
