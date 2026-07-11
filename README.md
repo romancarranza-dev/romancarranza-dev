@@ -59,4 +59,13 @@ Online daily [09:00 - 22:00] (UTC-3)
 		</td>
 	</tr>
 </table>
-
+<table>
+	<tr>
+		<td>
+			nose
+		</td>
+		<td>
+			<img src= alt="Headstone" width="450" height="450" />
+		</td>
+	</tr>
+</table>
