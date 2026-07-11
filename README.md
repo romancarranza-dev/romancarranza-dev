@@ -45,7 +45,7 @@ Online daily [09:00 - 22:00] (UTC-3)
 <table align="center" width="100%">
 	<tr>
 		<td>
-			<img src=cover.jpg alt="Headstone" width="600" height="350" />
+			<img src=cover.jpg alt="Headstone" width="600" height="300" />
 		</td>
 		<td>
 			<h3>Daily Execution Loop</h3>
