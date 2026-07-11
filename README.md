@@ -59,13 +59,28 @@ Online daily [09:00 - 22:00] (UTC-3)
 		</td>
 	</tr>
 </table>
-<table>
-	<tr>
+<table align="center" width="100%">
+	<tr width="100%">
 		<td>
-			nose
+			<h3>Loaded Education Modules</h3>
+  <pre>
+
+<b>● odin_foundations.service</b> - The Odin Project 🛠️
+├─ Tech: Git, HTML/CSS, Flexbox, JS Basics
+└─ Status: Full Stack Core Deployment
+
+<b>● cs50x.service</b> - Harvard Computer Science 🧠
+├─ Tech: C, Python, SQL, Memory, Algos
+└─ Status: Active Learning / Building
+
+<b>● cs50w.service</b> - Harvard Web Development 🌐
+├─ Tech: Python, Django, JavaScript, CI/CD
+└─ Status: Deep Dive / Projects Active
+
+  </pre>
 		</td>
 		<td>
-			<img src= alt="Headstone" width="450" height="450" />
+			<img src=computer_cat-removebg-preview.png alt="Headstone" width="450" height="450" />
 		</td>
 	</tr>
 </table>
