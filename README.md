@@ -29,7 +29,7 @@ Online daily [09:00 - 22:00] (UTC-3)
 				<h1>technologies I use</h1>
 				<div align="center">
 	<code><img width="50" src="logos/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="logos/insiders-logo.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="logos/insiders-logo.png" alt="Visual Studio Code" title="VS Code Insiders"/></code>
 	<code><img width="50" src="logos/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="logos/css.png" alt="CSS" title="CSS"/></code>
 	<code><img width="50" src="logos/javascript.png" alt="JavaScript" title="JavaScript"/></code>
