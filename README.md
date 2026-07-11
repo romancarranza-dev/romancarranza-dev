@@ -4,13 +4,26 @@
 
 <table align="center">
 	<tr align="center">
-		<td width="45%">
+		<td width="45%" valign="top">
 		<div>
-			<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="100" height="100" />
-			<h1>who am I </h1>
+<pre align="left">
+<b>root</b>@<b>github</b>:~$ whoami
+----------------------
+<b>Name</b>: 		Román Carranza
+<b>birthday</b>:	08/27/2007 
+<b>Role</b>: 		Junior Dev / Tech Enthusiast
+<b>OS</b>: 		Zorin OS (Dual-booted with Win11)
+<b>Editor</b>: 	Obsidian (for all my notes) & VS Code Insiders
+<b>Hobbies</b>:	Chess, VideoGames, listen to music & read
+----------------------
+<b>root</b>@<b>github</b>:~$ uptime
+----------------------
+Online daily [09:00 - 22:00] (UTC-3)
+
+</pre>
 		</div>
 		</td>
-		<td width="55%">
+		<td width="55%" valign="top">
 		<div>
 			<p>
 				<h1>technologies I use</h1>
@@ -26,6 +39,16 @@
 </div>
 			</p>
 		</div>
+		</td>
+	</tr>
+</table>
+<table align="center">
+	<tr>
+		<td>
+			photo
+		</td>
+		<td>
+			daily routine
 		</td>
 	</tr>
 </table>
