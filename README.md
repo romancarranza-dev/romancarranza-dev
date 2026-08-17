@@ -26,7 +26,7 @@ Online daily [09:00 - 22:00] (UTC-3)
 		<td width="55%" valign="top">
 		<div>
 			<p>
-				<h1>technologies I use</h1>
+				<h1>main technologies I use</h1>
 				<div align="center">
 	<code><img width="50" src="logos/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="logos/insiders-logo.png" alt="Visual Studio Code" title="VS Code Insiders"/></code>
