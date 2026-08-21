@@ -1,6 +1,9 @@
 <div align="center">
    <p>Hi, welcome to my GitHub profile</p>
 </div>
+<div align="center">
+   <img src=swiming.gif  width="300" height="300" />
+</div>
 
 <table align="center">
 	<tr align="center">
@@ -41,11 +44,9 @@ Online daily [09:00 - 22:00] (UTC-3)
 		</td>
 	</tr>
 </table>
-<table align="center" width="100%">
-	<tr>
-		<td>
+<div align="center">
 			<img src=roman_custom_render_2026-08-21T15_12_28.269Z.gif  width="300" height="300" />
-		</td>
+		</div>
 	</tr>
 </table>
 <table align="center" width="100%">
