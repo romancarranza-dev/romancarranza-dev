@@ -44,10 +44,10 @@ Online daily [09:00 - 22:00] (UTC-3)
 <table align="center" width="100%">
 	<tr>
 		<td>
-			<img src=cover.jpg alt="Headstone" width="650" height="350" />
+			<img src=cover.jpg alt="Headstone" width="700" height="300" />
 		</td>
 		<td>
-			<img src=roman_custom_render_2026-08-21T15_12_28.269Z.gif  width="350" height="350" />
+			<img src=roman_custom_render_2026-08-21T15_12_28.269Z.gif  width="300" height="300" />
 		</td>
 	</tr>
 </table>
