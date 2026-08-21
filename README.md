@@ -46,9 +46,6 @@ Online daily [09:00 - 22:00] (UTC-3)
 		<td>
 			<img src=roman_custom_render_2026-08-21T15_12_28.269Z.gif  width="300" height="300" />
 		</td>
-		<td>
-			<h> hola</h>
-		</td>
 	</tr>
 </table>
 <table align="center" width="100%">
